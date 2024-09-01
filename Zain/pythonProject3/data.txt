@@ -1,0 +1,6 @@
+
+`swimming,2024-08-27,False
+studing,2024-09-01,False
+sleeping,2024-09-01,False
+study,2024-09-01,False
+study,2024-09-01,False
